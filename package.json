@@ -29,7 +29,7 @@
     "express": "^4.17.1",
     "jsonwebtoken": "^8.5.1",
     "mongodb-memory-server": "^6.9.3",
-    "mongoose": "^5.11.4",
+    "mongoose": "^5.13.5",
     "node-fetch": "^2.6.1",
     "pug": "^3.0.2",
     "readmeio": "^4.0.2"
