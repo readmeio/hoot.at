@@ -28,7 +28,7 @@
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "jsonwebtoken": "^8.5.1",
-    "mongodb-memory-server": "^6.9.3",
+    "mongodb-memory-server": "^7.3.4",
     "mongoose": "^5.11.4",
     "node-fetch": "^2.6.1",
     "pug": "^3.0.2",
